@@ -32,7 +32,30 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  background-color: salmon;
+  color: whitesmoke;
+  margin: 10px 600px;
+  padding: 10px;
+}
+
+.increase {
+  background-color: tomato;
+  color: whitesmoke;
+  padding: 5px 15px;
+  border: 2px solid tomato;
+}
+
+.decrease {
+  margin-top: 10px;
+  background-color: sienna;
+  color: whitesmoke;
+  padding: 5px 12px;
+  border: 2px solid sienna;
 }
